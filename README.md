@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Isaac Richard Kitomari
+# 👋 Hi, I'm Isaac Kitomari
 
 🚀 A Software Engineer | Full-Stack Developer | Builder of Scalable Digital Systems  
 🌍 Based in Tanzania | Passionate about solving real-world African problems with technology  
