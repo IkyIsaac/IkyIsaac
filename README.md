@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isaac Richard Kitomari
 
-🚀 Junior Software Engineer | Full-Stack Developer | Builder of Scalable Digital Systems  
+🚀 A Software Engineer | Full-Stack Developer | Builder of Scalable Digital Systems  
 🌍 Based in Tanzania | Passionate about solving real-world African problems with technology  
 
 ---
