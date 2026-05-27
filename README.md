@@ -7,13 +7,11 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student and software developer focused on building impactful systems across **web apps, SaaS platforms, and enterprise solutions**.
+I'm a Computer Science graduate and software developer focused on building impactful systems across **web apps, SaaS platforms, and enterprise solutions**.
 
 I specialize in:
 - Full-stack web development
 - Backend systems & APIs
-- ERP-like systems (audit, risk, POS)
-- Agri-tech and fintech solutions for Africa
 - AI-assisted decision support tools
 
 ---
@@ -66,16 +64,6 @@ I specialize in:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkyIsaac&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building scalable enterprise systems (eGARC, TajiriPOS)
-- ⚡ Mastering React Query + TypeScript in production systems
-- 🧠 Improving system design & clean architecture
-- ☁️ Dockerized deployments & CI/CD pipelines
-- 🌍 Expanding AI-assisted software systems
 
 ---
 
