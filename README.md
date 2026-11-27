@@ -28,5 +28,14 @@ I build web and mobile applications, from user-facing experiences to the APIs an
       <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=supabase" width="28" height="28" alt=""><br>Supabase</td>
       <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=postgres" width="28" height="28" alt=""><br>PostgreSQL</td>
     </tr>
+    <tr><th colspan="6" scope="colgroup">DevOps</th></tr>
+    <tr>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=githubactions" width="28" height="28" alt=""><br>GitHub Actions</td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=docker" width="28" height="28" alt=""><br>Docker</td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=ubuntu" width="28" height="28" alt=""><br>Ubuntu Server</td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=nginx" width="28" height="28" alt=""><br>NGINX</td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=cloudflare" width="28" height="28" alt=""><br>Cloudflare</td>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=bash" width="28" height="28" alt=""><br>Bash scripting</td>
+    </tr>
   </tbody>
 </table>
